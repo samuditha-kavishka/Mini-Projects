@@ -44,7 +44,7 @@ Includes milliseconds display, task name recording, and smooth countdown functio
 
 
 ## Screenshots 
-( Stopwatch and Countdown Timer.png )
+( Stopwatch and Countdown Timer/Stopwatch_and_Countdown_Timer.png )
 
 ## License
 This project is **open source** and free to use for learning purposes.
