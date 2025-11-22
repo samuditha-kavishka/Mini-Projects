@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    background: #f3f3f3;
+}
+
+.watch {
+    background: white;
+    padding: 30px;
+    width: 320px;
+    margin: auto;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #aaa;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+#sw-display, #timer-display {
+    font-size: 36px;
+    margin: 15px 0;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 15px;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+    width: 120px;
+}

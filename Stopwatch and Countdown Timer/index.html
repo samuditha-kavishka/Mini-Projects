@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stopwatch & Countdown Timer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Stopwatch & Countdown Timer</h1>
+
+    <!-- Stopwatch Section -->
+    <div class="watch">
+        <h2>Stopwatch</h2>
+        <p id="sw-display">00:00:00.000</p>
+
+        <input type="text" id="sw-task" placeholder="Enter task name (optional)">
+
+        <button id="sw-start">Start</button>
+        <button id="sw-stop">Stop</button>
+        <button id="sw-reset">Reset</button>
+
+        <p id="sw-result"></p>
+    </div>
+
+    <hr>
+
+    <!-- Countdown Timer Section -->
+    <div class="watch">
+        <h2>Countdown Timer</h2>
+
+        <input type="number" id="minutes" placeholder="Minutes">
+        <input type="number" id="seconds" placeholder="Seconds">
+
+        <p id="timer-display">00:00.000</p>
+
+        <button id="timer-start">Start</button>
+        <button id="timer-stop">Stop</button>
+        <button id="timer-reset">Reset</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
