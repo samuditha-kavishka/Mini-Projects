@@ -19,17 +19,19 @@ Includes milliseconds display, task name recording, and smooth countdown functio
  Validates empty or zero inputs
 
 ### UI
- Clean and responsive design
- Buttons for control and input fields for task/time
+ Clean and responsive design.
+ Buttons for control and input fields for task time.
 
 ## How to Use
 
 1. **Open `index.html`** in a browser.
+   
 2. **Stopwatch**
     Enter a task name (optional)
     Click **Start** to begin
     Click **Stop** to stop and display task completion
     Click **Reset** to reset the stopwatch
+   
 3. **Countdown Timer**
     Enter **Minutes** and **Seconds**
     Click **Start** to begin countdown
